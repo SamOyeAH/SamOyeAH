@@ -1,4 +1,4 @@
-# Hello, Guys! <img src="wave.gif" width="30px">
+# Hi, Guys! <img src="wave.gif" width="30px">
 
 <!-- https://simpleicons.org/ -->
 
