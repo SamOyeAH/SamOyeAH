@@ -7,7 +7,7 @@ My name is **Samuel Oyediran** and welcome to my GitHub profile. Born in the UK,
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Rust & Python(FastAPI)
 - 👯 I’m looking to collaborate on my startup Qoupe and learn from the best in the AI/ML space.
-- 🤔 I’m looking for help with building a Django backend for the Qoupe apps
+- 🤔 I’m looking for help with building a backend for the Qoupe apps
 - 💬 Ask me about DevOps and MLOps
 - ⚡ Fun fact: I own a beagle 🐶
 
