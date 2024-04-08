@@ -4,7 +4,7 @@
 
 My name is **Samuel Oyediran** and welcome to my GitHub profile. I was born in East London, UK, raised in Dublin, Ireland, and now living in the Netherlands. Currently working at Ahold Delhaize as a Machine Learning Engineer (MLOps) and building my co-founded startup Qoupe VOF as a Fullstack DevOps Engineer (Co-founder).
 
-- 🔭 I’m currently working with Python (FastAPI) and Node.js(Nestjs)
+- 🔭 I’m currently working with Python (FastAPI) and Kotlin(SpringBoot)
 - 🌱 I’m currently learning React Native (Mobile) & Next JS (Web App) 7 LlamaIndex (LLM-based apps)
 - 👯 I’m looking to learn (distributed systems, scalable design, architecture and LLMs-based applications) on my startup Qoupe and learn from the best in the AI/ML space.
 - 🤔 I’m looking for help with building a platform for the Qoupe apps
