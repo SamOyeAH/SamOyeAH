@@ -12,7 +12,7 @@ My name is **Samuel Oyediran** and welcome to my GitHub profile. I was born in E
 - ⚡ Fun fact: I own a beagle 🐶
 
 ## 📝 Get In Touch
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 
 
 
