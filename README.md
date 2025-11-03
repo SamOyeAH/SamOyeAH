@@ -2,7 +2,7 @@
 
 <!-- https://simpleicons.org/ -->
 
-My name is **Samuel Oyediran** and welcome to my GitHub profile. I was born in East London, UK, raised in Dublin, Ireland, and now living in the Netherlands. Currently working at Ahold Delhaize as a Machine Learning Engineer (MLOps) and building my co-founded startup Qoupe VOF as a Fullstack DevOps Engineer (Co-founder).
+My name is **Samuel Oyediran** and welcome to my GitHub profile. I was born in East London, UK, raised in Dublin, Ireland, and now living in the Netherlands. Currently working at Zeno as a Platform Engineer and building my co-founded startup Qoupe VOF as a Fullstack DevOps Engineer (Co-founder).
 
 - 🔭 I’m currently working with Python (FastAPI) and Node.js(Nest.js/Fastify)
 - 🌱 I’m currently learning React Native (Mobile) & Next JS (Web App) 7 LlamaIndex (LLM-based apps)
